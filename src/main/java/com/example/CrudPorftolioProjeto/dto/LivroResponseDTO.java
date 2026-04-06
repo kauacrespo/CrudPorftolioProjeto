@@ -4,8 +4,8 @@ import java.time.LocalDate;
 
 public record LivroResponseDTO(
         long id,
-        String nomeAutor,
         String tituloLivro,
         String isbn,
+        String nomeAutor,
         LocalDate dataPublicacao
 ){}

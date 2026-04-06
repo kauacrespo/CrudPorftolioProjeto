@@ -9,5 +9,4 @@ public class  CrudPorftolioProjetoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CrudPorftolioProjetoApplication.class, args);
 	}
-
 }
