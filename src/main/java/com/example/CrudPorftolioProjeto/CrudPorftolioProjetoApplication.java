@@ -1,5 +1,6 @@
 package com.example.CrudPorftolioProjeto;
 
+import com.example.CrudPorftolioProjeto.model.Usuario;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 

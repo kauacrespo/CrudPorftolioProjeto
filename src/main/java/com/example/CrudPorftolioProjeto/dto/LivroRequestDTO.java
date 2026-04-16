@@ -10,6 +10,7 @@ public record LivroRequestDTO(
         long id,
 
         @NotBlank(message = "O titulo nao pode ser vazio")
+
         String tituloLivro,
 
         @NotBlank(message = "O ISBN é obrigatorio!")
