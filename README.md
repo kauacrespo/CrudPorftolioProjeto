@@ -1,4 +1,4 @@
-# 📚 API de Gerenciamento de Livros com Autenticação JWT
+# 📚 Spring Boot JWT Books API
 
 API REST desenvolvida com Spring Boot que permite cadastro de usuários, autenticação com JWT e acesso seguro a recursos de livros.
 
